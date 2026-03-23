@@ -56,27 +56,6 @@
 
 ---
 
-## 📊 Global Stats Summary
-
-<table align="center">
-  <tr>
-    <td align="center" width="420">
-
-### 🌟 Stats Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=SalmaKdy&show_icons=true&theme=tokyonight&hide_border=true" height="190"/>
-
-    </td>
-
-    <td align="center" width="420">
-
-### ⏱️ Activity Overview
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmaKdy&bg_color=1a1b27&color=7dcfff&line=bb9af7&point=ffffff&area=true&hide_border=true" height="190"/>
-
-    </td>
-  </tr>
-</table>
 
 
 ✨ Always learning and building new things
