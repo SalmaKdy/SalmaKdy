@@ -38,4 +38,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaKdy&layout=compact&theme=tokyonight" height="170" />
 </p>
 
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SalmaKdy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ✨ Always learning and building new things
