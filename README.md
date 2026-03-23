@@ -54,4 +54,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmaKdy&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+## 🛠️ Languages & Tools Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaKdy&layout=donut&theme=tokyonight&hide_border=true" height="200"/>
+</p>
+
 ✨ Always learning and building new things
