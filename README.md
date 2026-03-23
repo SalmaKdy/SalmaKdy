@@ -33,10 +33,15 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmaKdy&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaKdy&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SalmaKdy&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaKdy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
+    </td>
+  </tr>
+</table>>
 
 ✨ Always learning and building new things
