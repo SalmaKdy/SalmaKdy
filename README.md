@@ -46,4 +46,12 @@
   <img src="https://streak-stats.demolab.com?user=SalmaKdy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmaKdy&theme=tokyo-night&hide_border=true" />
+</p>
+
 ✨ Always learning and building new things
