@@ -56,6 +56,39 @@
 
 ---
 
+## 📊 Global Stats Summary
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### Stats
+
+⭐ **Total Stars:** 2  
+📝 **Commits 2026:** 3  
+🔀 **Total PRs:** 0  
+❗ **Total Issues:** 0  
+💻 **Contributed to:** 29  
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalmaKdy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+</p>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmaKdy&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&hide_border=true" height="260"/>
+</p>
+
+    </td>
+  </tr>
+</table>
 
 
 ✨ Always learning and building new things
