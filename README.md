@@ -58,6 +58,33 @@
 
 ## 🛠️ Languages & Tools Overview
 
+<table align="center">
+  <tr>
+    <!-- Bloc 1 -->
+    <td width="50%" align="center">
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaKdy&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+
+    <!-- Bloc 2 -->
+    <td width="50%" align="center">
+      <h3>Tech Focus</h3>
+      
+      🔸 Java & Spring Boot <br>
+      🔸 MERN Stack <br>
+      🔸 Machine Learning <br>
+      🔸 Mobile (Android) <br>
+
+      <br>
+
+      <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,python,androidstudio" />
+    </td>
+  </tr>
+</table>
+---
+
+## 🛠️ Languages & Tools Overview
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaKdy&layout=donut&theme=tokyonight&hide_border=true" height="200"/>
 </p>
