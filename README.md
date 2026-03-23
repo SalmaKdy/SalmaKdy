@@ -31,4 +31,11 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalmaKdy&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaKdy&layout=compact&theme=tokyonight" height="170" />
+</p>
+
 ✨ Always learning and building new things
