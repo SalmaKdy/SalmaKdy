@@ -26,8 +26,8 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: 
-- 📧 Email: 
+- 💼 LinkedIn:https://www.linkedin.com/in/salma-kardady/
+- 📧 Email:salma.kardady24@gmail.com
 
 ---
 
