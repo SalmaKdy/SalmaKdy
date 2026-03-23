@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Salma Kardady</h1>
 
-<!--
-**SalmaKdy/SalmaKdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Software Engineering Student | Full Stack Developer | AI Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building intelligent and scalable web applications.
+
+---
+
+## 🧠 About Me
+- 🎓 Engineering student in Computer Science
+- 💡 Interested in Web Development & Artificial Intelligence
+- ⚙️ Technologies: Java, Spring Boot, MERN Stack, Python
+- 📚 Currently improving my backend & system design skills
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,python,spring,mysql,mongodb,git,github" />
+</p>
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: 
+- 📧 Email: 
+
+---
+
+✨ Always learning and building new things
