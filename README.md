@@ -11,7 +11,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Engineering student in Computer Science
+- 🎓 Software Engineer in Computer Science and Networks, graduated from EMSI, with a Bachelor's degree in Computer Engineering obtained from FST.
 - 💡 Interested in Web Development & Artificial Intelligence
 - ⚙️ Technologies: Java, Spring Boot, MERN Stack, Python
 - 📚 Currently improving my backend & system design skills
